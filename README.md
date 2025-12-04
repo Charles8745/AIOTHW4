@@ -11,7 +11,7 @@
 
 ## 🚀 線上 Demo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aiothw4-7hjfql74qi3u5rapkjnnxw.streamlit.app/)
 
 ## 📦 本地執行
 
